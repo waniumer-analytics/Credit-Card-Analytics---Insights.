@@ -92,5 +92,5 @@ AI tools for better effective results.
 
 Website Portfolio:-
 
-Linkedin:- 
+Linkedin:- www.linkedin.com/in/waniumer-analytics 
 
