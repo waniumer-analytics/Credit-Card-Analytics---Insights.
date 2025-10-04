@@ -14,10 +14,10 @@ This project analyzes credit card customer demographics and transaction patterns
 
                                              Business Objectives
                                                             
-•	Identify high-value customer segments and untapped markets.
-•	Analyze card category performance and optimization opportunities.
-•	Understand spending patterns across demographics and geographies.
-•	Provide data-driven recommendations to increase revenue and customer satisfaction   .
+1. 	Identify high-value customer segments and untapped markets.
+2. 	Analyze card category performance and optimization opportunities.
+3. 	 derstand spending patterns across demographics and geographies.
+4. 	 Provide data-driven recommendations to increase revenue and customer satisfaction   .
 
                                                KEY METRICS
 
