@@ -1,22 +1,23 @@
- Credit-Card-Analytics---Insights.
+ Credit-Card-Analytics  -  Power Bi Insights.
 
-Project Overview
+                                    Project Overview
 This project analyzes credit card customer demographics and transaction patterns to identify revenue opportunities and provide actionable business recommendations. The analysis covers customer segmentation, spending behavior, card performance, and satisfaction metrics.
 
-Dataset Period: January 2023 - December 2023.
+                    Dataset Period: January 2023 - December 2023.
+
 <img width="1296" height="728" alt="CREDIT CARD CUSTOMER REPORT png" src="https://github.com/user-attachments/assets/bf831fae-d3b7-482a-9775-1f96034497b1" />
 
 <img width="1263" height="713" alt="CREDIT CARD TRANSACTION REPORT png" src="https://github.com/user-attachments/assets/ad6b05bb-48fd-4c0d-91aa-126d864ac7af" />
 
 
-                                                            Business Objectives
+                                  Business Objectives
                                                             
 •	Identify high-value customer segments and untapped markets.
 •	Analyze card category performance and optimization opportunities.
 •	Understand spending patterns across demographics and geographies.
 •	Provide data-driven recommendations to increase revenue and customer satisfaction   .
 
-                                                                      KEY METRICS
+                                     KEY METRICS
 
 Total Revenue	$57M.
 Total Interest Earned	$8M.
@@ -26,7 +27,7 @@ Annual Fees Collected	$30M
 Customer Satisfaction Score	3.19/5
 Customer Total Income	$588M
 
-                                                              INSIGHTS & RECOMMENDATIONS
+                                INSIGHTS & RECOMMENDATIONS
 
 1. Gender Gap
 
@@ -80,7 +81,14 @@ Impact: +$10–15M/year.
 Action:-  Improve service, app UX, loyalty perks.
 Impact:-  Save $10–15M CLV.
 
-
+                                 TOOLS & TECHNIQUES
+                                 
+Data Import :- MYSQL DataBase 
+Data Cleaning:-  Power Query.
+Calculations & Measures :- DAx Formulas
+Data Visualization.
+Data Analysis.
+AI tools for better effective results.
 
 Website Portfolio:-
 
