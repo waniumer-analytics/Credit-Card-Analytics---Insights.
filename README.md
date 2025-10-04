@@ -21,13 +21,13 @@ This project analyzes credit card customer demographics and transaction patterns
 
                                                KEY METRICS
 
-Total Revenue	$57M.
-Total Interest Earned	$8M.
-Transaction Amount	$46M.
-Transaction Count	667K
-Annual Fees Collected	$30M
-Customer Satisfaction Score	3.19/5
-Customer Total Income	$588M
+1. Total Revenue	:  $57M.
+2. Total Interest Earned	:  $8M.
+3. Transaction Amount	:  $46M.
+4. Transaction Count	: 667K.
+5. Annual Fees Collected  :	$30M.
+6. Customer Satisfaction Score	: 3.19/5.
+7. Customer Total Income	: $588M.
 
                                 INSIGHTS & RECOMMENDATIONS
 
@@ -85,16 +85,16 @@ Impact:-  Save $10–15M CLV.
 
                                             TOOLS & TECHNIQUES
                                  
-Data Import :- MYSQL DataBase 
-Data Cleaning:-  Power Query.
-Calculations & Measures :- DAx Formulas
-Data Visualization.
-Data Analysis.
-AI tools for better effective results.
+1. Data Import :- MYSQL DataBase
+2. Data Cleaning:-  Power Query.
+3. Calculations & Measures :- DAx Formulas
+4. Data Visualization.
+5. Data Analysis.
+6. AI tools for better effective results.
 
 
                                                       LINKS 
 Website Portfolio:-
-
+GITHUB:- https://github.com/waniumer-analytics
 Linkedin:- www.linkedin.com/in/waniumer-analytics 
 
